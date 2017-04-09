@@ -1,15 +1,15 @@
-﻿using System;
-using System.Globalization;
-using System.Threading;
-using VehicleParkSystem2;
+﻿namespace Vp_himineu
+{
+    using System.Globalization;
+    using System.Threading;
 
-namespace VehicleParkSystem1
-{
-static class vp
-{
-static void Main()
-{
-Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;var engine = new Mecanismo();engine.Runrunrunrunrun();
-}
-}
+    public static class Vp
+    {
+        private static void Main()
+        {
+            Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
+            var engine = new Mecanismo();
+            engine.Runrunrunrunrun();
+        }
+    }
 }

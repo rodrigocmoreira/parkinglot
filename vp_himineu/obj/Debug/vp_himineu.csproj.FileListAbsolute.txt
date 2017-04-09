@@ -7,3 +7,11 @@ C:\Users\Sara Vidal\Downloads\vp_himineu (Skeleton)\vp_himineu\bin\Debug\PowerCo
 C:\Users\Sara Vidal\Downloads\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.csprojResolveAssemblyReference.cache
 C:\Users\Sara Vidal\Downloads\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.exe
 C:\Users\Sara Vidal\Downloads\vp_himineu (Skeleton)\vp_himineu\obj\Debug\vp_himineu.pdb
+C:\Users\Sara Vidal\Documents\workspace\parkinglot\vp_himineu\bin\Debug\vp_himineu.exe.config
+C:\Users\Sara Vidal\Documents\workspace\parkinglot\vp_himineu\bin\Debug\vp_himineu.exe
+C:\Users\Sara Vidal\Documents\workspace\parkinglot\vp_himineu\bin\Debug\vp_himineu.pdb
+C:\Users\Sara Vidal\Documents\workspace\parkinglot\vp_himineu\bin\Debug\PowerCollections.dll
+C:\Users\Sara Vidal\Documents\workspace\parkinglot\vp_himineu\bin\Debug\PowerCollections.xml
+C:\Users\Sara Vidal\Documents\workspace\parkinglot\vp_himineu\obj\Debug\vp_himineu.exe
+C:\Users\Sara Vidal\Documents\workspace\parkinglot\vp_himineu\obj\Debug\vp_himineu.pdb
+C:\Users\Sara Vidal\Documents\workspace\parkinglot\vp_himineu\obj\Debug\vp_himineu.csprojResolveAssemblyReference.cache
