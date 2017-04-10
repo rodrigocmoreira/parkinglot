@@ -1,8 +1,9 @@
 ﻿namespace Vp_himineu.Domain.Entities
 {
-    public class Moto : Vehicle
+    public class Motorbike : Vehicle
     {
-        public Moto()
+        // TODO remove hard coded values
+        public Motorbike()
         {
             this.RegularRate = (decimal)1.35;
             this.OvertimeRate = 3M;

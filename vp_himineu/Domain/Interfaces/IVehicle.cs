@@ -2,14 +2,14 @@
 {
     public interface IVehicle
     {
-        string LicensePlate { get; }
+        string LicensePlate { get; set; }
 
-        string Owner { get; }
+        string Owner { get; set; }
 
-        decimal RegularRate { get; }
+        decimal RegularRate { get; set; }
 
-        decimal OvertimeRate { get; }
+        decimal OvertimeRate { get; set; }
 
-        int ReservedHours { get; }
+        int ReservedHours { get; set; }
     }
 }

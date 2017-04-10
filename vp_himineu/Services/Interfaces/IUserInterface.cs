@@ -1,4 +1,4 @@
-﻿namespace Vp_himineu.Contratos
+﻿namespace Vp_himineu.Services.Interfaces
 {
     public interface IUserInterface
     {

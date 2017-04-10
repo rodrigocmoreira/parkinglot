@@ -1,0 +1,3 @@
+packages
+vp_himineu/bin*
+vp_himineu/debug*
