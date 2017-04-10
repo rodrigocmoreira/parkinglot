@@ -42,7 +42,7 @@
                                 DateTime.Parse(
                                     command.Parameters["time"],
                                     null,
-                                    System.Globalization.DateTimeStyles.RoundtripKind)); // why round trip kind??
+                                    System.Globalization.DateTimeStyles.RoundtripKind));
                         case "motorbike":
                             var motorbike = new Motorbike
                                             {
@@ -58,7 +58,7 @@
                                 DateTime.Parse(
                                     command.Parameters["time"],
                                     null,
-                                    System.Globalization.DateTimeStyles.RoundtripKind)); // stack overflow says this
+                                    System.Globalization.DateTimeStyles.RoundtripKind));
                         case "truck":
                             var truck = new Truck()
                                             {
@@ -74,7 +74,7 @@
                                 DateTime.Parse(
                                     command.Parameters["time"],
                                     null,
-                                    System.Globalization.DateTimeStyles.RoundtripKind)); // I wanna know
+                                    System.Globalization.DateTimeStyles.RoundtripKind));
                         default:
                             return "Invalid parameter.";
                     }

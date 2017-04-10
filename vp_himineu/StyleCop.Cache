@@ -2008,7 +2008,7 @@
     <timestamps>
       <styleCop>2016/11/10 18:44:50.000</styleCop>
       <settingsFile>2016/11/10 18:44:50.000</settingsFile>
-      <sourceFile>2017/04/09 15:09:39.894</sourceFile>
+      <sourceFile>2017/04/09 23:56:04.694</sourceFile>
       <parser>2016/11/10 18:44:50.000</parser>
       <StyleCop.CSharp.DocumentationRules>2016/11/10 18:44:50.000</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>202844509</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -2043,12 +2043,12 @@
       </violation>
       <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
         <context>The property must have a documentation header.</context>
-        <line>15</line>
+        <line>17</line>
         <warning>False</warning>
       </violation>
       <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
         <context>The property must have a documentation header.</context>
-        <line>17</line>
+        <line>19</line>
         <warning>False</warning>
       </violation>
     </violations>
@@ -2057,7 +2057,7 @@
     <timestamps>
       <styleCop>2016/11/10 18:44:50.000</styleCop>
       <settingsFile>2016/11/10 18:44:50.000</settingsFile>
-      <sourceFile>2017/04/09 23:04:59.647</sourceFile>
+      <sourceFile>2017/04/10 00:13:07.882</sourceFile>
       <parser>2016/11/10 18:44:50.000</parser>
       <StyleCop.CSharp.DocumentationRules>2016/11/10 18:44:50.000</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>202844509</StyleCop.CSharp.DocumentationRules.FilesHashCode>

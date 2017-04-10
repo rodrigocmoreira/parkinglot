@@ -9,6 +9,8 @@
         public Command(string str)
         {
             this.Name = str.Substring(0, str.IndexOf(' '));
+
+            // PERFOMANCE: Could be improved
             this.Parameters = new JavaScriptSerializer().Deserialize<Dictionary<string, string>>(str.Substring(str.IndexOf(' ') + 1));
         }
 

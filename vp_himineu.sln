@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vp_himineu", "vp_himineu\vp_himineu.csproj", "{7C79AD6D-4F3B-40A4-B9BF-8E9C9D4913FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{5FFDAB8C-30D4-4DD9-8892-DEC64FBFB416}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7C79AD6D-4F3B-40A4-B9BF-8E9C9D4913FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C79AD6D-4F3B-40A4-B9BF-8E9C9D4913FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C79AD6D-4F3B-40A4-B9BF-8E9C9D4913FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFDAB8C-30D4-4DD9-8892-DEC64FBFB416}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFDAB8C-30D4-4DD9-8892-DEC64FBFB416}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFDAB8C-30D4-4DD9-8892-DEC64FBFB416}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFDAB8C-30D4-4DD9-8892-DEC64FBFB416}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
